@@ -1,0 +1,11 @@
+Excutable/build
+DynamicLib/build
+
+Excutable/test/*
+DynamicLib/test/*
+
+!Excutable/test/*.c
+!/Excutable/test/*.sh
+
+!DynamicLib/test/*.c
+!DynamicLib/test/*.sh

@@ -8,9 +8,9 @@
 
 -----
 # how to build?
-    (```)
-        cd DynamicLib/test
-        ./run.sh
-    (```)
+```shell
+    cd DynamicLib/test
+    ./run.sh
+```
 
     tips: remember to modify the llvm path in shell script.

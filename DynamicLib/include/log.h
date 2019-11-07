@@ -1,7 +1,7 @@
 /*************************************************************************
 	> File Name: log.h
 	> Author: jetming
-	> Mail: puzhiming@migu.cn
+	> Mail: 
 	> Created Time: Sun 12 May 2019 08:21:44 PM PDT
     > Description: description
  ************************************************************************/

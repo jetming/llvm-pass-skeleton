@@ -1,7 +1,6 @@
 /*************************************************************************
 	> File Name: passes.h
 	> Author: jetming
-	> Mail: puzhiming@migu.cn
 	> Created Time: Mon 25 Mar 2019 04:19:22 AM PDT
     > Description: description
  ************************************************************************/
